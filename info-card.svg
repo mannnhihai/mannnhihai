@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="520"
+    height="430"
+    viewBox="0 0 520 430"
+>
+
+
+<rect
+    x="1"
+    y="1"
+    width="518"
+    height="428"
+    rx="12"
+    fill="#0d1117"
+    stroke="#30363d"
+    stroke-width="2"
+/>
+
+
+<circle cx="25" cy="25" r="6" fill="#ff5f56"/>
+<circle cx="45" cy="25" r="6" fill="#ffbd2e"/>
+<circle cx="65" cy="25" r="6" fill="#27c93f"/>
+
+
+<text
+    x="90"
+    y="30"
+    font-family="monospace"
+    font-size="13"
+    fill="#8b949e"
+>
+madhusudan@github: ~
+</text>
+
+
+<line
+    x1="20"
+    y1="50"
+    x2="500"
+    y2="50"
+    stroke="#30363d"
+/>
+
+
+<text
+    x="25"
+    y="82"
+    font-family="monospace"
+    font-size="22"
+    font-weight="bold"
+    fill="#ffffff"
+>
+Madhusudan Thakur
+</text>
+
+
+<text
+    x="25"
+    y="106"
+    font-family="monospace"
+    font-size="12"
+    fill="#8b949e"
+>
+B.Tech CSE • Amity University
+</text>
+
+
+<g opacity="0">
+
+<animate
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="0.45s"
+    begin="0.35s"
+    fill="freeze"
+/>
+
+<text
+    x="25"
+    y="145"
+    font-family="monospace"
+    font-size="11"
+    font-weight="bold"
+    fill="#39d353"
+>
+ROLE
+</text>
+
+<text
+    x="100"
+    y="145"
+    font-family="monospace"
+    font-size="11"
+    fill="#c9d1d9"
+>
+DevOps / Cloud Enthusiast
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="0.45s"
+    begin="0.53s"
+    fill="freeze"
+/>
+
+<text
+    x="25"
+    y="179"
+    font-family="monospace"
+    font-size="11"
+    font-weight="bold"
+    fill="#58a6ff"
+>
+EDU
+</text>
+
+<text
+    x="100"
+    y="179"
+    font-family="monospace"
+    font-size="11"
+    fill="#c9d1d9"
+>
+B.Tech CSE • 2023–2027
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="0.45s"
+    begin="0.71s"
+    fill="freeze"
+/>
+
+<text
+    x="25"
+    y="213"
+    font-family="monospace"
+    font-size="11"
+    font-weight="bold"
+    fill="#bc8cff"
+>
+EXP
+</text>
+
+<text
+    x="100"
+    y="213"
+    font-family="monospace"
+    font-size="11"
+    fill="#c9d1d9"
+>
+DevOps Intern @ NIC
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="0.45s"
+    begin="0.89s"
+    fill="freeze"
+/>
+
+<text
+    x="25"
+    y="247"
+    font-family="monospace"
+    font-size="11"
+    font-weight="bold"
+    fill="#f2cc60"
+>
+CLOUD
+</text>
+
+<text
+    x="100"
+    y="247"
+    font-family="monospace"
+    font-size="11"
+    fill="#c9d1d9"
+>
+AWS EC2 • NetBox • Linux
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="0.45s"
+    begin="1.0699999999999998s"
+    fill="freeze"
+/>
+
+<text
+    x="25"
+    y="281"
+    font-family="monospace"
+    font-size="11"
+    font-weight="bold"
+    fill="#39d353"
+>
+CODE
+</text>
+
+<text
+    x="100"
+    y="281"
+    font-family="monospace"
+    font-size="11"
+    fill="#c9d1d9"
+>
+C • C++ • Java • Python • SQL
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="0.45s"
+    begin="1.25s"
+    fill="freeze"
+/>
+
+<text
+    x="25"
+    y="315"
+    font-family="monospace"
+    font-size="11"
+    font-weight="bold"
+    fill="#58a6ff"
+>
+WEB
+</text>
+
+<text
+    x="100"
+    y="315"
+    font-family="monospace"
+    font-size="11"
+    fill="#c9d1d9"
+>
+HTML • CSS • JS • React • Node
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="0.45s"
+    begin="1.4300000000000002s"
+    fill="freeze"
+/>
+
+<text
+    x="25"
+    y="349"
+    font-family="monospace"
+    font-size="11"
+    font-weight="bold"
+    fill="#bc8cff"
+>
+CORE
+</text>
+
+<text
+    x="100"
+    y="349"
+    font-family="monospace"
+    font-size="11"
+    fill="#c9d1d9"
+>
+DSA • OOP • DBMS • OS
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="0.5s"
+    begin="1.8s"
+    fill="freeze"
+/>
+
+<text
+    x="25"
+    y="390"
+    font-family="monospace"
+    font-size="11"
+    fill="#39d353"
+>
+$ cat experience.txt
+</text>
+
+<text
+    x="25"
+    y="410"
+    font-family="monospace"
+    font-size="11"
+    fill="#8b949e"
+>
+NIC • NetBox IPAM • AWS EC2
+</text>
+
+</g>
+
+</svg>
