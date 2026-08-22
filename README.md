@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <img src="./madhusudan-ascii.svg" width="700">
 </p>
 
-<p align="center">
-  <img src="./info-card.svg" width="700">
-</p>
 
 <p align="center">
   <img src="./contributions.svg" width="700">
