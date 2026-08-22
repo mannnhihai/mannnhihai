@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="./madusudan-ascii.svg" width="700">
+<img src="./madhusudan-ascii.svg" width="700">
 </p>
 
 <p align="center">
