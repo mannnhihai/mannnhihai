@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
+  <img src="./madusudan-ascii.svg" width="700">
+</p>
 <p align="center">
   <img src="./contributions.svg" width="700">
 </p>
