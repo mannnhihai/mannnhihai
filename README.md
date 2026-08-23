@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Madhusudan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannnhihai&label=Profile%20views&color=0e75b6&style=flat" alt="mannnhihai" /> </p>
@@ -21,7 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannnhihai&show_icons=true&locale=en" alt="mannnhihai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mannnhihai&" alt="mannnhihai" /></p>
--->
 <p align="center">
 <img src="./madhusudan-ascii.svg" width="700">
 </p>
