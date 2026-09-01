@@ -1,4 +1,109 @@
 <h1 align="center">Hi 👋, I'm Madhusudan</h1>
+
+# 👋 Hi, I'm **Madhusudan**
+
+### 🚀 Engineer | AI/ML Enthusiast | Full-Stack Developer | DevOps Learner  
+### 🎓 B.Tech Student at **Amity University, Uttar Pradesh**
+
+---
+
+## 🧑‍💻 About Me
+
+I am a passionate software engineer skilled in developing intelligent systems and scalable applications.  
+My interests span **Artificial Intelligence, Machine Learning, Generative AI, Agentic AI, Full-Stack Development, and DevOps**.  
+I enjoy building real-world projects, experimenting with modern technologies, and continuously learning new tools to stay ahead in tech.
+
+---
+
+## 🔥 Skills & Expertise
+
+### 💻 Programming Languages
+- Python  
+- Java  
+- JavaScript  
+- SQL  
+
+### 🤖 AI / Machine Learning
+- Model Training & Optimization  
+- Generative AI (LLMs, Vision, Multi-modal)  
+- Agentic AI Development  
+- Prompt Engineering  
+- Data Processing & Visualization  
+
+### 🌐 Frontend Development
+- HTML, CSS, JavaScript  
+- React.js  
+- UI/UX Development  
+
+### 🛠️ Backend Development
+- Node.js  
+- Python (Flask / FastAPI / Django)  
+- REST APIs  
+
+### ⚙️ DevOps
+- Docker  
+- CI/CD Basics  
+- Linux & Shell Scripting  
+- Git & GitHub  
+
+---
+
+## 📘 Currently Learning
+- Advanced ML / DL  
+- DevOps Pipelines  
+- Cloud (AWS / Azure)  
+- Building Intelligent AI Agents  
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/madhusudan-thakur-b504152bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/madhusudan-thakur-b504152bb" height="30" width="40" /></a>
