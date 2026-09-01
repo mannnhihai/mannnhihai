@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhusudan</h1>
 
-# 👋 Hi, I'm **Madhusudan**
 
 ### 🚀 Engineer | AI/ML Enthusiast | Full-Stack Developer | DevOps Learner  
 ### 🎓 B.Tech Student at **Amity University, Uttar Pradesh**
